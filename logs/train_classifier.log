@@ -1,0 +1,2 @@
+2024-07-12 15:52:17,986 - train_classifier - INFO - Namespace(seed=0, gpus='0', data_dir='./data/', epochs=50, batch_size=16, num_workers=4, num_classes=9, use_generator=False)
+2024-07-12 15:52:30,035 - train_classifier - INFO - 464
